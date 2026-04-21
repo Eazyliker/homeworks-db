@@ -26,7 +26,7 @@ INSERT INTO album (title, year) VALUES
     ('Abbey Road', 1969),
     ('A Night at the Opera', 1975),
     ('Kind of Blue', 1959),
-    ('Random Access Memories', 2013),
+    ('Future Nostalgia', 2019),
     ('Thriller', 1982);
 
 INSERT INTO artist_album (artist_id, album_id) VALUES
@@ -45,7 +45,7 @@ INSERT INTO track (title, duration, album_id) VALUES
     ('Get Lucky', 248, 4),
     ('Billie Jean', 294, 5),
     ('Here Comes the Sun', 185, 1),
-    ('We Will Rock You', 122, 2);
+    ('My Sweet Melody', 215, 2);
 
 INSERT INTO compilation (title, year) VALUES
     ('Greatest Hits of the 70s', 2020),
